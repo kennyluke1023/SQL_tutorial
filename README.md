@@ -25,8 +25,8 @@ Goals
    * Having
 
 3. Basic Functions
-   * Join functions (self_join & inner_join)
    * Groupby
+   * Join functions (self_join & inner_join)
    * Cast
    * Order by 
 
