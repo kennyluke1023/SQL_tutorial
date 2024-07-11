@@ -18,10 +18,9 @@ from _data_name_
 Goals
 1. Basic concepts
    * Select and From
-   * Alias
-   * Where
-   * Between
-   * Like
+   * Alias and Distinct
+   * Where 
+   * Operators( =, <>(!=), >,<,>=,<=, between, in like, ilike, AND, ON) 
    * Having
 
 3. Basic Functions
