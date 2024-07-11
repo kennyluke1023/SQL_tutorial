@@ -5,7 +5,7 @@ This lession use pyspark.sql as an evironment since I find its more convenient f
 
 >Build up environment (kindly remind use Colab ^_^):
 ```ruby
-from pysparl.sql import SparkSession
+from pyspark.sql import SparkSession
 spark = SparkSession.builder.appName().getOrCreate()
 data = spark.read.option('header','true').csv(__your_csv__).createOrReplaceTempView('_data_name') # let say is csv or
 spark.sql('''
