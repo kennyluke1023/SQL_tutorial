@@ -16,15 +16,14 @@ from _data_name_
 
 
 Goals
-1. Basic concepts
+1. Basic Functions 11/7 done
    * Select and From
    * Alias and Distinct
    * Where 
    * Operators( =, <>(!=), >,<,>=,<=, between, in like, ilike, AND, ON) 
-   * Having
-
-3. Basic Functions
-   * Groupby
+  
+3. Half-Advanced Functions
+   * Groupby (Having)
    * Join functions (self_join & inner_join)
    * Cast
    * Order by 
