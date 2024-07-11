@@ -23,10 +23,10 @@ Goals
    * Operators( =, <>(!=), >,<,>=,<=, between, in like, ilike, AND, ON) 
   
 3. Half-Advanced Functions
+   * Order by
    * Groupby (Having)
-   * Join functions (self_join & inner_join)
    * Cast
-   * Order by 
+   * Join functions (self_join & inner_join)
 
 4. Advanced Functons
    * Advanced Join (left or Right join)
