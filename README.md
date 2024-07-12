@@ -35,4 +35,5 @@ Goals
    * Create Datasets & Tables
    * Alter Table, Update & Drop
    * Stats functions
+   * Pviot
 
