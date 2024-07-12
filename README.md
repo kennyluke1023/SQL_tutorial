@@ -22,14 +22,14 @@ Goals
    * Where 
    * Operators( =, <>(!=), >,<,>=,<=, between, in like, ilike, AND, ON) 
   
-3. Half-Advanced Functions
-   * Order by
+2. Half-Advanced Functions 12/7
+   * Order by (要再改改)
    * Groupby (Having)
-   * Cast
+   * Cast (沒有寫)
    * Join functions (self_join & inner_join)
 
-4. Advanced Functons
-   * Advanced Join (left or Right join)
+3. Advanced Functons
+   * Advanced Join (left or Right join) done 112/7
    * Check
    * Unique
    * Create Datasets & Tables
