@@ -29,11 +29,12 @@ Goals
    * Join functions (self_join & inner_join)
 
 3. Advanced Functons
-   * Advanced Join (left or Right join) done 112/7
-   * Check
-   * Unique
-   * Create Datasets & Tables
-   * Alter Table, Update & Drop
-   * Stats functions
+   * Advanced Join (left or Right join) done 12/7
+   * Union, INTERSECT, EXCEPT(MINUS) 
+   * Stats functions 12/7
    * Pviot
+  
+4. Other with BigQuery
+   * Create Datasets & Tables(Unique, Constraint)
+   * Alter Table, Update & Drop
 
