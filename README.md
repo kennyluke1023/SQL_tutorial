@@ -30,8 +30,8 @@ Goals
 
 3. Advanced Functons
    * Advanced Join (left or Right join) done 12/7
-   * Union, INTERSECT, EXCEPT(MINUS) 
-   * Stats functions 12/7
+   * Union, INTERSECT, EXCEPT(MINUS) done 20/7
+   * Stats functions not yet 
    * Pviot
   
 4. Other with BigQuery
