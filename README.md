@@ -16,21 +16,21 @@ from _data_name_
 
 
 Goals
-1. Basic Functions 11/7 done
-   * [ ] Select and From
-   * [ ] Alias and Distinct
-   * [ ] Where 
-   * [ ] Operators( =, <>(!=), >,<,>=,<=, between, in like, ilike, AND, ON) 
+1. Basic Functions 
+   * [x] Select and From
+   * [x] Alias and Distinct
+   * [x] Where 
+   * [x] Operators( =, <>(!=), >,<,>=,<=, between, in like, ilike, AND, ON) 
   
-2. Half-Advanced Functions 12/7
-   * [ ] Order by (要再改改)
-   * [ ] Groupby (Having)
+2. Half-Advanced Functions
+   * [x] Order by (要再改改)
+   * [x] Groupby (Having)
    * [ ] Cast (沒有寫)
-   * [ ] Join functions (self_join & inner_join)
+   * [x] Join functions (self_join & inner_join)
 
 3. Advanced Functons
-   * [ ] Advanced Join (left or Right join) done 12/7
-   * [ ] Union, INTERSECT, EXCEPT(MINUS) done 20/7
+   * [x] Advanced Join (left or Right join) 
+   * [ ] Union, INTERSECT, EXCEPT(MINUS) 
    * [ ] Stats functions not yet 
    * [ ] Pviot
   
