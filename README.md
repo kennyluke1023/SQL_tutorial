@@ -17,22 +17,22 @@ from _data_name_
 
 Goals
 1. Basic Functions 11/7 done
-   * Select and From
-   * Alias and Distinct
-   * Where 
-   * Operators( =, <>(!=), >,<,>=,<=, between, in like, ilike, AND, ON) 
+   * [ ] Select and From
+   * [ ] Alias and Distinct
+   * [ ] Where 
+   * [ ] Operators( =, <>(!=), >,<,>=,<=, between, in like, ilike, AND, ON) 
   
 2. Half-Advanced Functions 12/7
-   * Order by (要再改改)
-   * Groupby (Having)
-   * Cast (沒有寫)
-   * Join functions (self_join & inner_join)
+   * [ ] Order by (要再改改)
+   * [ ] Groupby (Having)
+   * [ ] Cast (沒有寫)
+   * [ ] Join functions (self_join & inner_join)
 
 3. Advanced Functons
-   * Advanced Join (left or Right join) done 12/7
-   * Union, INTERSECT, EXCEPT(MINUS) done 20/7
-   * Stats functions not yet 
-   * Pviot
+   * [ ] Advanced Join (left or Right join) done 12/7
+   * [ ] Union, INTERSECT, EXCEPT(MINUS) done 20/7
+   * [ ] Stats functions not yet 
+   * [ ] Pviot
   
 4. Other with BigQuery
    * Create Datasets & Tables(Unique, Constraint)
